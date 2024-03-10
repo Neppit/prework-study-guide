@@ -4,11 +4,6 @@
 
 This study guide was create to learn, practice and review information regarding the boot camp prior to it's beginning. It includes information on HTML, CSS, Git and JavaScript, along with examples of each.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Installation
 
 N/A
